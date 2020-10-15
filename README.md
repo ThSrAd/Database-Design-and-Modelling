@@ -32,7 +32,7 @@ Mysql Workbench, XAmmp version 3.2.4 VM,VB for UI
 
 ## Entity-Relationship Model
 
-![image](https://user-images.githubusercontent.com/69738890/96191191-35ffa200-0f09-11eb-9f4d-46a04040e65f.png)
+![image](https://user-images.githubusercontent.com/69738890/96193467-d3f56b80-0f0d-11eb-9df1-9f7dd6f3dcad.png)
 
 
 
