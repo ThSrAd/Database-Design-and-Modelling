@@ -11,7 +11,7 @@ Explore theoretical and practical aspects of database design and modelling for a
 
 <hr>
 
-## Company Background - Fictional Case
+## Company Background - CaseStudy
 Middle Earth is a amusement park located in the Dallas, TX area. It opened its doors in 1954 where it’s customers enjoyed a few different rides and food and beverage stations. It began as a small park with very few employees, and was only opened on the weekends. This made it possible for a single person to keep handwritten records of the parks records.
 
 Over the years the park has performed well and now the owner would like to expand his theme park. He will be open seven days a week, create additional rides, and have more employees than ever before. With these changes to his business, the owner needs a better and more efficient way of keeping records and generating reports than the handwritten way it has been done until now. The owner is in need of a database to maintain the records of his expanded park.
