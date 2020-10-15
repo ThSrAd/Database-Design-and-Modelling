@@ -36,12 +36,13 @@ Mysql Workbench, XAmmp version 3.2.4 VM,VB for UI
 
 ## Sample Login page for Database
 
-![image](https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png)
+    ![image](https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png)
 
-![image](https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png)
+    ![image](https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png)
 
 ##
-Sql scripts 
+Sql scripts : https://github.com/ThSrAd/Database-Design-and-Modelling/blob/main/amusement_park.sql
+
 
 
 
