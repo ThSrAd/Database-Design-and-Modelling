@@ -22,6 +22,8 @@ The database will be used to track:<br>
 •	Ticket sales
 • Revenue from restaurants on the park premises
 •	maintenance of rides
+•	Number of footfalls/people visiting in a given period
+
 
 <hr>
 
@@ -37,15 +39,20 @@ Mysql Workbench, XAmmp version 3.2.4 VM,VB for UI
 ## Database UI
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png">
 </p>
+
+<p align="center">
+  <img width="700" height="300" src="https://user-images.githubusercontent.com/69738890/96194549-35b6d500-0f10-11eb-85b3-c646ba0c71ea.png">
+</p>
+
   
-##
-Sql scripts : https://github.com/ThSrAd/Database-Design-and-Modelling/blob/main/amusement_park.sql
+## Sql scripts 
+amusement_park.sql
 
 
 
