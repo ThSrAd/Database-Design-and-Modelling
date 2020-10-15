@@ -46,13 +46,10 @@ Mysql Workbench, XAmmp version 3.2.4 VM,VB for UI
   <img width="700" height="300" src="https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png">
 </p>
 
-<p align="center">
-  <img width="700" height="300" src="https://user-images.githubusercontent.com/69738890/96194549-35b6d500-0f10-11eb-85b3-c646ba0c71ea.png">
-</p>
-
   
 ## Sql scripts 
 amusement_park.sql
+sample_data.sql
 
 
 
