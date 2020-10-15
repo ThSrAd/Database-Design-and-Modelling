@@ -7,7 +7,7 @@ Explore theoretical and practical aspects of database design and modelling for a
 * Company Background
 * Environment
 * Entity-Relationship Model
-* Hive Querying/Explored Questions
+* Database UI
 
 <hr>
 
@@ -34,12 +34,16 @@ Mysql Workbench, XAmmp version 3.2.4 VM,VB for UI
 
 ![image](https://user-images.githubusercontent.com/69738890/96193594-128b2600-0f0e-11eb-90d6-e05ac21ac877.png)
 
-## Sample Login page for Database
+## Database UI
 
-   ![image](https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/69738890/96193694-59791b80-0f0e-11eb-9534-7606f828b822.png">
+</p>
 
-   ![image](https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png)
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/69738890/96193773-90e7c800-0f0e-11eb-8239-f198775fd2bf.png">
+</p>
+  
 ##
 Sql scripts : https://github.com/ThSrAd/Database-Design-and-Modelling/blob/main/amusement_park.sql
 
